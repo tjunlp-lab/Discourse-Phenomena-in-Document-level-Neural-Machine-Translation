@@ -10,10 +10,10 @@ each type of discourse phenomena. We perform both automatic and human evaluation
 # References:
 If you use the dataset included here in your work, please cite the corresponding papers. The bibtex are listed below:
 
-@inproceedings{cai2020test,
-  title={A Test Suite for Evaluating Discourse Phenomena in Document-level Neural Machine Translation},
-  author={Cai, Xinyi and Xiong, Deyi},
-  booktitle={Proceedings of the Second International Workshop of Discourse Processing},
-  pages={13--17},
-  year={2020}
+@inproceedings{cai2020test,  
+  title={A Test Suite for Evaluating Discourse Phenomena in Document-level Neural Machine Translation},  
+  author={Cai, Xinyi and Xiong, Deyi},  
+  booktitle={Proceedings of the Second International Workshop of Discourse Processing},  
+  pages={13--17},  
+  year={2020}  
 }
