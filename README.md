@@ -17,10 +17,12 @@ Attribution 4.0 International (CC BY 4.0) license. (License URL: https://creativ
 
 ## Reference:
 If you use the dataset included here in your work, please cite the following paper:  
+```bibtex
 @inproceedings{cai2020test,  
-&nbsp; title={A Test Suite for Evaluating Discourse Phenomena in Document-level Neural Machine Translation},  
-&nbsp; author={Cai, Xinyi and Xiong, Deyi},  
-&nbsp; booktitle={Proceedings of the Second International Workshop of Discourse Processing},  
-&nbsp; pages={13--17},  
-&nbsp; year={2020}  
+  title={A Test Suite for Evaluating Discourse Phenomena in Document-level Neural Machine Translation},  
+  author={Cai, Xinyi and Xiong, Deyi},  
+  booktitle={Proceedings of the Second International Workshop of Discourse Processing},  
+  pages={13--17},  
+  year={2020}  
 }
+```
